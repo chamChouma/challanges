@@ -290,6 +290,7 @@ body {
 }
 .msg-btn {
 	display: block;
+	cursor: pointer;
 	padding:10px 20px;
 	background: #fafafa;
 	border: 1px solid #ddd;
